@@ -224,4 +224,4 @@ If you find this useful, consider giving it a ⭐
 
 ---
 
-*For responsible disclosure only. Built to make the internet more secure, one repo at a time.*
+*For responsible disclosure only. Built to make the Internet more secure, one repo at a time.*
