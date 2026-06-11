@@ -13,27 +13,7 @@
 
 ## 🎬 Demo
 
-<!-- After recording, replace YOUR_ID_HERE with the ID from your asciinema upload -->
-[![Demo](https://asciinema.org/a/YOUR_ID_HERE.svg)](https://asciinema.org/a/YOUR_ID_HERE)
-
-> **How to record and upload your demo:**
-> ```bash
-> # Install asciinema (Kali/Ubuntu)
-> sudo apt install asciinema
->
-> # Record the terminal (idle gaps capped at 2s so it stays snappy)
-> asciinema rec --idle-time-limit 2 demo.cast
->
-> # Run the scanner inside the recording
-> ./scanner.py --user Brainrotshiva
->
-> # Press Ctrl+D to stop recording
->
-> # Upload to asciinema.org — get a shareable link
-> asciinema upload demo.cast
-> ```
-> Copy the ID from the link (e.g. `https://asciinema.org/a/abc123` → ID is `abc123`)  
-> Then replace `YOUR_ID_HERE` in both URLs above.
+[![Demo](https://asciinema.org/a/9XhM0lZ8fpCTtrdP.svg)](https://asciinema.org/a/9XhM0lZ8fpCTtrdP)
 
 ---
 
