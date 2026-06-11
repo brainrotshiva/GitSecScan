@@ -147,6 +147,8 @@ Browser opens automatically at `http://localhost:8765` — every new finding app
 
 **HTML Report:** A dark-themed, professional report with severity badges, file links, line numbers, and redacted previews.
 
+📊 **[View Live Sample Report](https://brainrotshiva.github.io/GitSecScan/demo_report.html)**
+
 ---
 
 ## 🔑 GitHub Token (Recommended)
@@ -224,4 +226,4 @@ If you find this useful, consider giving it a ⭐
 
 ---
 
-*For responsible disclosure only. Built to make the Internet more secure, one repo at a time.*
+*For responsible disclosure only. Built to make the internet more secure, one repo at a time.*
