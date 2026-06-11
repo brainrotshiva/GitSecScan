@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-[![Demo](https://asciinema.org/a/9XhM0lZ8fpCTtrdP.svg)](https://asciinema.org/a/9XhM0lZ8fpCTtrdP)
+[![Demo](demo.svg)](demo.svg)
 
 ---
 
